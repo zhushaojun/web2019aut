@@ -2,7 +2,7 @@
 
 All information about the 2 courses will be put in this repo. 
 
-All discussions will be in Issues or face to face with me, so no wechat contactions.
+All discussions will be in Issues or face to face with me, so no wechat contacts.
 
 # videos for courses
 
@@ -17,6 +17,7 @@ All discussions will be in Issues or face to face with me, so no wechat contacti
 3. No check in if you are later more than 30 minutes
 4. Use a earphone if you watch videos in the class 
 5. Report your progress at least one time every week
+6. Come to class before you report in the week
 
 # About your project
 
