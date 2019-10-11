@@ -22,10 +22,10 @@ All discussions will be in Issues or face to face with me, so no wechat contacti
 
 1. Include both backend and frontend. 
 2. Backend for J2EE Programming
-  1. NodeJS
-  2. Include CRUD operations
+   1. NodeJS
+   2. Include CRUD operations
 3. Frontend for Web Application
-  1. BootStrap4
+   1. BootStrap4
   
 
 
