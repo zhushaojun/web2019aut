@@ -27,6 +27,11 @@ All discussions will be in Issues or face to face with me, so no wechat contacts
    2. Include CRUD operations
 3. Frontend for Web Application
    1. BootStrap4
+4. For relearning students only: 
+   1. JSP project for Web Application
+   2. Spring project for J2EE Programming
+   3. If relearning both courses, 2 projects should include same features
+
   
 
 
