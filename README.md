@@ -4,6 +4,19 @@ All information about the 2 courses will be put in this repo.
 
 All discussions will be in Issues or face to face with me, so no wechat contacts.
 
+# Anouncements
+
+## 2019.10.24
+
+Next week before you discuss with me, you should finish following things:
+1. Add a readme file, which includes:
+   * Titles and internal titles
+   * Introduction - the project's aim
+   * Technologies
+   * Features
+   * Plan for whole project
+2. Frontend of the home page of your project should be finished.
+
 # videos for courses
 
 链接：https://pan.baidu.com/s/1a2BAuDBI2niPxhK-hhPDng 
@@ -31,6 +44,7 @@ All discussions will be in Issues or face to face with me, so no wechat contacts
    1. JSP project for Web Application
    2. Spring project for J2EE Programming
    3. If relearning both courses, 2 projects should include same features
+5. Documents should be written in markdown, read this article to learn the syntax. [Basic writing and formatting syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
   
 
