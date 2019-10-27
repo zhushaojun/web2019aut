@@ -32,7 +32,7 @@
 | 28   | [2017050010](2017050010.md) | NIYONGABO JUVENAL                  | 1    |      |      |      |      |      |      |      |      |
 | 29   | [2017050039](2017050039.md) | NIYIBIZI ELYSEE                    |      |      |      |      |      |      |      |      |      |
 | 30   | [2017050041](2017050041.md) | KAPFUDZARUVA SALIMA CHIEDZA        |      |      |      |      |      |      |      |      |      |
-| 31   | [2017050043](2017050043.md) | TENDAYI ELISHAMA                   |      |      |      |      |      |      |      |      |      |
+| 31   | [2017050043](2017050043.md) | TENDAYI ELISHAMA                   | 1 |      |      |      |      |      |      |      |      |
 | 32   | [2017050044](2017050044.md) | INKOOM KWEKU MENSAH                | 1 |      |      |      |      |      |      |      |      |
 | 33   | [2017060003](2017060003.md) | NGANGA SAILAS                      |      |      |      |      |      |      |      |      |      |
 | 34   | [2017060025](2017060025.md) | TARUVINGIRA MUSSAH                 | 1 |      |      |      |      |      |      |      |      |
@@ -67,7 +67,7 @@
 | 63   | [2017080089](2017080089.md) | ASELE MITIK BANCHA                 | 1 |      |      |      |      |      |      |      |      |
 | 64   | [2017080108](2017080108.md) | HUNDE MELAT DECHASA                | 1 |      |      |      |      |      |      |      |      |
 | 65   | [2017080109](2017080109.md) | AYANA SARON HAILE                  |      |      |      |      |      |      |      |      |      |
-| 66   | [2017080112](2017080112.md) | KANYARUGANO TANGUY-NOLAIN          |      |      |      |      |      |      |      |      |      |
+| 66   | [2017080112](2017080112.md) | KANYARUGANO TANGUY-NOLAIN          | 1 |      |      |      |      |      |      |      |      |
 | 67   | [2017080120](2017080120.md) | BENTIL RICHARD                     |      |      |      |      |      |      |      |      |      |
 | 68   | [2017080123](2017080123.md) | SAM-JOLLY AKINTAYO EZEKIEL         | 1 |      |      |      |      |      |      |      |      |
 | 69   | [2017080127](2017080127.md) | ABUBEKER YASMIN MUSTEFA            | 1    |      |      |      |      |      |      |      |      |
@@ -76,9 +76,11 @@
 | 72   | [2017080146](2017080146.md) | NDUWINDAVYI ALINE JOELLE           |      |      |      |      |      |      |      |      |      |
 | 73   | [2017080149](2017080149.md) | MELESE ASHENAFI TESFAYE            |      |      |      |      |      |      |      |      |      |
 | 74   | [2017080158](2017080158.md) | BEKELE MELIKT ZENEBE               | 1 |      |      |      |      |      |      |      |      |
-| 75   | [2017080181](2017080181.md) | MUSARIRI JOYCE                     |      |      |      |      |      |      |      |      |      |
+| 75   | [2017080181](2017080181.md) | MUSARIRI JOYCE                     | 1 |      |      |      |      |      |      |      |      |
 | 76   | [2017080196](2017080196.md) | BAKIZOV TLEUKABYL                  | 1    |      |      |      |      |      |      |      |      |
 | 77   | [2017080198](2017080198.md) | KANYUNYUMALA CLIFFORD TAPIWA       |      |      |      |      |      |      |      |      |      |
 | 78   | [2017080220](2017080220.md) | OUMAI ANAS                         |      |      |      |      |      |      |      |      |      |
 | 79   | [2017090007](2017090007.md) | TELILA BRUKTAWIT HABTE             |      |      |      |      |      |      |      |      |      |
 | 80   | [2017090025](2017090025.md) | ASFAHA SAMUEL ABRAHAM              |      |      |      |      |      |      |      |      |      |
+| 81 | 2016002136 |  | 1 | | | | | | | | |
+| 82 | 2016006814 |  |  | | | | | | | | |
