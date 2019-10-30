@@ -16,6 +16,8 @@ The plan is like:
 ...
 * week 16: what will be finished
 
+The title should be： 2017090076 for week 9
+
 
 ## 2019.10.27
 
