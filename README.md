@@ -6,6 +6,13 @@ All discussions will be in Issues or face to face with me, so no wechat contacts
 
 # Anouncements
 
+## 2019.10.27
+
+1. Make a meaningful name of your projects.
+2. If you have finished your work this week, post an issue in my repo. I will check your projects.
+3. Put your frontend pages of your projects on [Github Pages](https://pages.github.com/).
+
+
 ## 2019.10.24
 
 Next week before you discuss with me, you should finish following things:
