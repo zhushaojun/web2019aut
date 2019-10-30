@@ -16,7 +16,7 @@
 | 12   | [2017002103](2017002103.md) | SHAWON MD JAHUNGIR HOSSAIN         | 1     |      |      |      |      |      |      |      |      |
 | 13   | [2017002104](2017002104.md) | KADER MOHAMMAD ABDUL               |      |      |      |      |      |      |      |      |      |
 | 14   | [2017002105](2017002105.md) | ALAM MD JAHANGIR                   | 1     |      |      |      |      |      |      |      |      |
-| 15   | [2017002106](2017002106.md) | NELOY MAHADI SAJJAD                | 1    |      |      |      |      |      |      |      |      |
+| 15   | [2017002106](2017002106.md) | NELOY MAHADI SAJJAD                | 1    |   1   |      |      |      |      |      |      |      |
 | 16   | [2017002107](2017002107.md) | ANIK MEHEDI HASAN                  |      |      |      |      |      |      |      |      |      |
 | 17   | [2017002110](2017002110.md) | NGOMO NCHAMA SONIA GAUDENCIA BILE  |      |      |      |      |      |      |      |      |      |
 | 18   | [2017002111](2017002111.md) | AL-SUBARI GEBRAN GAMAL MOUTHNA ALI | 1 |      |      |      |      |      |      |      |      |
