@@ -6,6 +6,17 @@ All discussions will be in Issues or face to face with me, so no wechat contacts
 
 # Anouncements
 
+
+## 2019.10.30
+
+The plan is like:
+
+* week 8: what will be finished
+* week 9: what will be finished
+...
+* week 16: what will be finished
+
+
 ## 2019.10.27
 
 1. Make a meaningful name of your projects.
