@@ -66,6 +66,10 @@ Next week before you discuss with me, you should finish following things:
    3. If relearning both courses, 2 projects should include same features
 5. Documents should be written in markdown, read this article to learn the syntax. [Basic writing and formatting syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
+  # free cloud services to host your project
   
+  * https://www.heroku.com/
+  * https://www.pythonanywhere.com/
+  * https://www.openshift.com/
 
 
