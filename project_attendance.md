@@ -15,7 +15,7 @@
 | 11   | 2017002102 | SHIHAM MD TAYEF                    | 1    | 1 |      |      |      |      |      |      |      |
 | 12   | 2017002103 | SHAWON MD JAHUNGIR HOSSAIN         | 1     | 1 |      |      |      |      |      |      |      |
 | 13   | 2017002104 | KADER MOHAMMAD ABDUL               |      |      |      |      |      |      |      |      |      |
-| 14   | 2017002105 | ALAM MD JAHANGIR                   | 1     |      |      |      |      |      |      |      |      |
+| 14   | 2017002105 | ALAM MD JAHANGIR                   | 1     | 1     |      |      |      |      |      |      |      |
 | 15   | 2017002106 | NELOY MAHADI SAJJAD                | 1    |   1   |      |      |      |      |      |      |      |
 | 16   | 2017002107 | ANIK MEHEDI HASAN                  |      |      |      |      |      |      |      |      |      |
 | 17   | 2017002110 | NGOMO NCHAMA SONIA GAUDENCIA BILE  |      |      |      |      |      |      |      |      |      |
