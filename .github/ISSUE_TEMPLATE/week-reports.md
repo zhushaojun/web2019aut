@@ -8,9 +8,10 @@ assignees: ''
 ---
 
 * Github project url
-
+https://github.com/noormdgolam/yoghurt-shop
 
 * Live demo url
+https://eerie-alien-46246.herokuapp.com/
 
 * Describe what you have done since last week
 
