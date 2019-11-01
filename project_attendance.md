@@ -72,7 +72,7 @@
 | 68   | 2017080123 | SAM-JOLLY AKINTAYO EZEKIEL         | 1 |      |      |      |      |      |      |      |      |
 | 69   | 2017080127 | ABUBEKER YASMIN MUSTEFA            | 1    |      |      |      |      |      |      |      |      |
 | 70   | 2017080129 | MOHAMMED AHMED KASIM               |      |      |      |      |      |      |      |      |      |
-| 71   | 2017080133 | BEN ABDALLAH DAOUD                 | 1 |      |      |      |      |      |      |      |      |
+| 71   | 2017080133 | BEN ABDALLAH DAOUD                 | 1 |  1    |      |      |      |      |      |      |      |
 | 72   | 2017080146 | NDUWINDAVYI ALINE JOELLE           |      |      |      |      |      |      |      |      |      |
 | 73   | 2017080149 | MELESE ASHENAFI TESFAYE            |      |      |      |      |      |      |      |      |      |
 | 74   | 2017080158 | BEKELE MELIKT ZENEBE               | 1 |      |      |      |      |      |      |      |      |
