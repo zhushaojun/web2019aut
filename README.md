@@ -6,6 +6,10 @@ All discussions will be in Issues or face to face with me, so no wechat contacts
 
 # Anouncements
 
+## 2019.11.6
+
+You need to finish frontend work in week 10 and 11, you all need to come to class before finished.
+
 
 ## 2019.10.30
 
