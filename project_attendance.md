@@ -59,7 +59,7 @@
 | 55   | 2017070223 | ASHENGO BETHLIEM ASFAW             | 1 |      |      |      |      |      |      |      |      |
 | 56   | 2017070239 | SHIMWA ELVIS                       |      |      |      |      |      |      |      |      |      |
 | 57   | 2017070241 | NYONGWA RENIAS TALENT              |      |      |      |      |      |      |      |      |      |
-| 58   | 2017080002 | EJARA RUHAMA HAILU                 | 1    |      |      |      |      |      |      |      |      |
+| 58   | 2017080002 | EJARA RUHAMA HAILU                 | 1    | 1     |      |      |      |      |      |      |      |
 | 59   | 2017080021 | NEGERI HAWI DEMELASH               |      |      |      |      |      |      |      |      |      |
 | 60   | 2017080074 | OLEMBE ELVIS DESTIN                |      |      |      |      |      |      |      |      |      |
 | 61   | 2017080075 | GEBREAMANUEAL AMEN MEKRESELASSE    |      |      |      |      |      |      |      |      |      |
