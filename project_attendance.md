@@ -26,7 +26,7 @@
 | 22   | 2017002115 | MEHEDI MD ASIF                     | 1    | 1 |      |      |      |      |      |      |      |
 | 23   | 2017002116 | MANZA NAMWEMA                      | 1    | 1 |      |      |      |      |      |      |      |
 | 24   | 2017002117 | ROY DIPTO                          | 1    | 1 |      |      |      |      |      |      |      |
-| 25   | 2017003116 | ALAM MD ASHRAFUL                   | 1    |      |      |      |      |      |      |      |      |
+| 25   | 2017003116 | ALAM MD ASHRAFUL                   | 1    |  1    |      |      |      |      |      |      |      |
 | 26   | 2017040054 | MUTARINGE LAW                      |      |      |      |      |      |      |      |      |      |
 | 27   | 2017040056 | CHIHWEHWETE AMAZIAH                | 1 |      |      |      |      |      |      |      |      |
 | 28   | 2017050010 | NIYONGABO JUVENAL                  | 1    |      |      |      |      |      |      |      |      |
