@@ -53,7 +53,7 @@
 | 49   | 2017070098 | NURU TOFIK SEID                    |      |      |      |      |      |      |      |      |      |
 | 50   | 2017070099 | KARBOUSS SAIF-EDDINE               |      |      |      |      |      |      |      |      |      |
 | 51   | 2017070138 | MONDZOLA DIMITRI ROCH              | 1 |      |      |      |      |      |      |      |      |
-| 52   | 2017070162 | UWIMANA THERESE                    | 1 |      |      |      |      |      |      |      |      |
+| 52   | 2017070162 | UWIMANA THERESE                    | 1 | 1     |      |      |      |      |      |      |      |
 | 53   | 2017070167 | MALAMBO LUSHOMO                    | 1 |      |      |      |      |      |      |      |      |
 | 54   | 2017070210 | ABEBE HERMELA ASMELASH             | 1 |      |      |      |      |      |      |      |      |
 | 55   | 2017070223 | ASHENGO BETHLIEM ASFAW             | 1 |      |      |      |      |      |      |      |      |
