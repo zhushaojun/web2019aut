@@ -19,9 +19,9 @@
 | 15   | 2017002106 | NELOY MAHADI SAJJAD                | 1    |   1   |      |      |      |      |      |      |      |
 | 16   | 2017002107 | ANIK MEHEDI HASAN                  |      |      |      |      |      |      |      |      |      |
 | 17   | 2017002110 | NGOMO NCHAMA SONIA GAUDENCIA BILE  |      |      |      |      |      |      |      |      |      |
-| 18   | 2017002111 | AL-SUBARI GEBRAN GAMAL MOUTHNA ALI | 1 |      |      |      |      |      |      |      |      |
+| 18   | 2017002111 | AL-SUBARI GEBRAN GAMAL MOUTHNA ALI | 1 | 1 |      |      |      |      |      |      |      |
 | 19   | 2017002112 | SHEJA MARIE FRANCE CREDIA          | 1 |      |      |      |      |      |      |      |      |
-| 20   | 2017002113 | UGWU KINGSLEY CHISOM               | 1 |      |      |      |      |      |      |      |      |
+| 20   | 2017002113 | UGWU KINGSLEY CHISOM               | 1 | 1 |      |      |      |      |      |      |      |
 | 21   | 2017002114 | RAHMAN MD MOSTAFIZUR               | 1    | 1 |      |      |      |      |      |      |      |
 | 22   | 2017002115 | MEHEDI MD ASIF                     | 1    | 1 |      |      |      |      |      |      |      |
 | 23   | 2017002116 | MANZA NAMWEMA                      | 1    | 1 |      |      |      |      |      |      |      |
@@ -70,7 +70,7 @@
 | 66   | 2017080112 | KANYARUGANO TANGUY-NOLAIN          | 1 |      |      |      |      |      |      |      |      |
 | 67   | 2017080120 | BENTIL RICHARD                     |      |      |      |      |      |      |      |      |      |
 | 68   | 2017080123 | SAM-JOLLY AKINTAYO EZEKIEL         | 1 |      |      |      |      |      |      |      |      |
-| 69   | 2017080127 | ABUBEKER YASMIN MUSTEFA            | 1    |      |      |      |      |      |      |      |      |
+| 69   | 2017080127 | ABUBEKER YASMIN MUSTEFA            | 1    | 1 |      |      |      |      |      |      |      |
 | 70   | 2017080129 | MOHAMMED AHMED KASIM               |      |      |      |      |      |      |      |      |      |
 | 71   | 2017080133 | BEN ABDALLAH DAOUD                 | 1 |  1    |      |      |      |      |      |      |      |
 | 72   | 2017080146 | NDUWINDAVYI ALINE JOELLE           |      |      |      |      |      |      |      |      |      |
@@ -84,3 +84,4 @@
 | 80   | 2017090025 | ASFAHA SAMUEL ABRAHAM              |      |      |      |      |      |      |      |      |      |
 | 81 | 2016002136 |  | 1 | | | | | | | | |
 | 82 | 2016006814 |  |  | | | | | | | | |
+| 83 | 2016006819 | | | 1 | | | | | | | |
