@@ -67,7 +67,7 @@
 | 63   | 2017080089 | ASELE MITIK BANCHA                 | 1 |      |      |      |      |      |      |      |      |
 | 64   | 2017080108 | HUNDE MELAT DECHASA                | 1 |      |      |      |      |      |      |      |      |
 | 65   | 2017080109 | AYANA SARON HAILE                  |      |      |      |      |      |      |      |      |      |
-| 66   | 2017080112 | KANYARUGANO TANGUY-NOLAIN          | 1 |      |      |      |      |      |      |      |      |
+| 66   | 2017080112 | KANYARUGANO TANGUY-NOLAIN          | 1 | 1     |      |      |      |      |      |      |      |
 | 67   | 2017080120 | BENTIL RICHARD                     |      |      |      |      |      |      |      |      |      |
 | 68   | 2017080123 | SAM-JOLLY AKINTAYO EZEKIEL         | 1 |      |      |      |      |      |      |      |      |
 | 69   | 2017080127 | ABUBEKER YASMIN MUSTEFA            | 1    | 1 |      |      |      |      |      |      |      |
