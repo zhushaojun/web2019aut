@@ -45,7 +45,7 @@
 | 41   | 2017070045 | DIALLO ISMAILA                     |      |      |      |      |      |      |      |      |      |
 | 42   | 2017070054 | OJOK BENJAMIN RONALD               |      |      |      |      |      |      |      |      |      |
 | 43   | 2017070055 | DEJENE GETAHUN SHIFERAW            |      |      |      |      |      |      |      |      |      |
-| 44   | 2017070059 | CHIUTSI TINOTENDA PRIDE            |      |      |      |      |      |      |      |      |      |
+| 44   | 2017070059 | CHIUTSI TINOTENDA PRIDE            |      | 1     |      |      |      |      |      |      |      |
 | 45   | 2017070067 | GIDEY ROMHA TEKLE                  |      |      |      |      |      |      |      |      |      |
 | 46   | 2017070068 | KEBEDE HERMON ASEFA                |      |      |      |      |      |      |      |      |      |
 | 47   | 2017070077 | LEMA EYASU FEKADU                  |      |      |      |      |      |      |      |      |      |
