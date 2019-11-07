@@ -36,8 +36,8 @@
 | 32   | 2017050044 | INKOOM KWEKU MENSAH                | 1 |      |      |      |      |      |      |      |      |
 | 33   | 2017060003 | NGANGA SAILAS                      |      |      |      |      |      |      |      |      |      |
 | 34   | 2017060025 | TARUVINGIRA MUSSAH                 | 1 |      |      |      |      |      |      |      |      |
-| 35   | 2017060056 | MABHIZA CHIRAWU ALEC               | 1    | 1 |      |      |      |      |      |      |      |
-| 36   | 2017060069 | KABWEMBA EDWARD                    | 1 |      |      |      |      |      |      |      |      |
+| 35   | 2017060056 | MABHIZA CHIRAWU ALEC               | 1    | 1 | 1 |      |      |      |      |      |      |
+| 36   | 2017060069 | KABWEMBA EDWARD                    | 1 |      | 1 |      |      |      |      |      |      |
 | 37   | 2017070007 | CHITEMBURE RUTENDO                 |      |      |      |      |      |      |      |      |      |
 | 38   | 2017070030 | MUTONI TONY STEIN                  |      |      |      |      |      |      |      |      |      |
 | 39   | 2017070032 | AYIGUHAYE YVES                     | 1 |      |      |      |      |      |      |      |      |
@@ -45,7 +45,7 @@
 | 41   | 2017070045 | DIALLO ISMAILA                     |      |      |      |      |      |      |      |      |      |
 | 42   | 2017070054 | OJOK BENJAMIN RONALD               |      |      |      |      |      |      |      |      |      |
 | 43   | 2017070055 | DEJENE GETAHUN SHIFERAW            |      |      |      |      |      |      |      |      |      |
-| 44   | 2017070059 | CHIUTSI TINOTENDA PRIDE            |      | 1     |      |      |      |      |      |      |      |
+| 44   | 2017070059 | CHIUTSI TINOTENDA PRIDE            |      | 1     | 1 |      |      |      |      |      |      |
 | 45   | 2017070067 | GIDEY ROMHA TEKLE                  |      |      |      |      |      |      |      |      |      |
 | 46   | 2017070068 | KEBEDE HERMON ASEFA                |      |      |      |      |      |      |      |      |      |
 | 47   | 2017070077 | LEMA EYASU FEKADU                  |      |      |      |      |      |      |      |      |      |
