@@ -22,13 +22,13 @@
 | 18   | 2017002111 | AL-SUBARI GEBRAN GAMAL MOUTHNA ALI | 1 | 1 |      |      |      |      |      |      |      |
 | 19   | 2017002112 | SHEJA MARIE FRANCE CREDIA          | 1 |      |      |      |      |      |      |      |      |
 | 20   | 2017002113 | UGWU KINGSLEY CHISOM               | 1 | 1 |      |      |      |      |      |      |      |
-| 21   | 2017002114 | RAHMAN MD MOSTAFIZUR               | 1    | 1 |      |      |      |      |      |      |      |
+| 21   | 2017002114 | RAHMAN MD MOSTAFIZUR               | 1    | 1 | 1 |      |      |      |      |      |      |
 | 22   | 2017002115 | MEHEDI MD ASIF                     | 1    | 1 |      |      |      |      |      |      |      |
 | 23   | 2017002116 | MANZA NAMWEMA                      | 1    | 1 |      |      |      |      |      |      |      |
 | 24   | 2017002117 | ROY DIPTO                          | 1    | 1 | 1 |      |      |      |      |      |      |
 | 25   | 2017003116 | ALAM MD ASHRAFUL                   | 1    |  1    |      |      |      |      |      |      |      |
 | 26   | 2017040054 | MUTARINGE LAW                      |      |      |      |      |      |      |      |      |      |
-| 27   | 2017040056 | CHIHWEHWETE AMAZIAH                | 1 |      |      |      |      |      |      |      |      |
+| 27   | 2017040056 | CHIHWEHWETE AMAZIAH                | 1 |      | 1 |      |      |      |      |      |      |
 | 28   | 2017050010 | NIYONGABO JUVENAL                  | 1    |      |      |      |      |      |      |      |      |
 | 29   | 2017050039 | NIYIBIZI ELYSEE                    |      |      |      |      |      |      |      |      |      |
 | 30   | 2017050041 | KAPFUDZARUVA SALIMA CHIEDZA        |      |      |      |      |      |      |      |      |      |
