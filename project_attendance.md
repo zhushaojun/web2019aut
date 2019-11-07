@@ -13,7 +13,7 @@
 | 9    | 2017001106 | RIDLEY ONYA                        |      |      |      |      |      |      |      |      |      |
 | 10   | 2017002101 | JONY MD OLIULLAH                   |      |      |      |      |      |      |      |      |      |
 | 11   | 2017002102 | SHIHAM MD TAYEF                    | 1    | 1 |      |      |      |      |      |      |      |
-| 12   | 2017002103 | SHAWON MD JAHUNGIR HOSSAIN         | 1     | 1 |      |      |      |      |      |      |      |
+| 12   | 2017002103 | SHAWON MD JAHUNGIR HOSSAIN         | 1     | 1 | 1 |      |      |      |      |      |      |
 | 13   | 2017002104 | KADER MOHAMMAD ABDUL               |      |      |      |      |      |      |      |      |      |
 | 14   | 2017002105 | ALAM MD JAHANGIR                   | 1     | 1     |      |      |      |      |      |      |      |
 | 15   | 2017002106 | NELOY MAHADI SAJJAD                | 1    |   1   |   1   |      |      |      |      |      |      |
@@ -25,7 +25,7 @@
 | 21   | 2017002114 | RAHMAN MD MOSTAFIZUR               | 1    | 1 |      |      |      |      |      |      |      |
 | 22   | 2017002115 | MEHEDI MD ASIF                     | 1    | 1 |      |      |      |      |      |      |      |
 | 23   | 2017002116 | MANZA NAMWEMA                      | 1    | 1 |      |      |      |      |      |      |      |
-| 24   | 2017002117 | ROY DIPTO                          | 1    | 1 |      |      |      |      |      |      |      |
+| 24   | 2017002117 | ROY DIPTO                          | 1    | 1 | 1 |      |      |      |      |      |      |
 | 25   | 2017003116 | ALAM MD ASHRAFUL                   | 1    |  1    |      |      |      |      |      |      |      |
 | 26   | 2017040054 | MUTARINGE LAW                      |      |      |      |      |      |      |      |      |      |
 | 27   | 2017040056 | CHIHWEHWETE AMAZIAH                | 1 |      |      |      |      |      |      |      |      |
