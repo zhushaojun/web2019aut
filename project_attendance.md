@@ -8,7 +8,7 @@
 | 4    | 2016002179 | HOSEN TANBIR                       |      |      |      |      |      |      |      |      |      |
 | 5    | 2016002181 | KABARA MICHAEL JACKSON             |      |      |      |      |      |      |      |      |      |
 | 6    | 2016006810 | NOOR MD GOLAM                      | 1    | 1 |      |      |      |      |      |      |      |
-| 7    | 2016006819 | MIAH ROKIB                         | 1    |      |      |      |      |      |      |      |      |
+| 7    | 2016006819 | MIAH ROKIB                         | 1    | 1 |      |      |      |      |      |      |      |
 | 8    | 2017001105 | AHAMED KAMAR-EDDINE                | 1 |      |      |      |      |      |      |      |      |
 | 9    | 2017001106 | RIDLEY ONYA                        |      |      |      |      |      |      |      |      |      |
 | 10   | 2017002101 | JONY MD OLIULLAH                   |      |      |      |      |      |      |      |      |      |
@@ -70,7 +70,7 @@
 | 66   | 2017080112 | KANYARUGANO TANGUY-NOLAIN          | 1 | 1     |      |      |      |      |      |      |      |
 | 67   | 2017080120 | BENTIL RICHARD                     |      |      |      |      |      |      |      |      |      |
 | 68   | 2017080123 | SAM-JOLLY AKINTAYO EZEKIEL         | 1 |      |      |      |      |      |      |      |      |
-| 69   | 2017080127 | ABUBEKER YASMIN MUSTEFA            | 1    | 1 |      |      |      |      |      |      |      |
+| 69   | 2017080127 | ABUBEKER YASMIN MUSTEFA            | 1    | 1 | 1 |      |      |      |      |      |      |
 | 70   | 2017080129 | MOHAMMED AHMED KASIM               |      |      |      |      |      |      |      |      |      |
 | 71   | 2017080133 | BEN ABDALLAH DAOUD                 | 1 |  1    |      |      |      |      |      |      |      |
 | 72   | 2017080146 | NDUWINDAVYI ALINE JOELLE           |      |      |      |      |      |      |      |      |      |
@@ -84,6 +84,7 @@
 | 80   | 2017090025 | ASFAHA SAMUEL ABRAHAM              |      |      |      |      |      |      |      |      |      |
 | 81 | 2016002136 |  | 1 | | | | | | | | |
 | 82 | 2016006814 |  |  | | | | | | | | |
-| 83 | 2016006819 | | | 1 | | | | | | | |
+| 83 |            |                                    |      |      | | | | | | | |
 | 84 | 2016006802 | ANTU SEN | |  | 1 | | | | | | |
 | 85 | 2016006812 | AHMED RAJU | |  | 1 | | | | | | |
+| 86 | 2016090007 | Bruktawit Habte | | | 1 | | | | | | |
