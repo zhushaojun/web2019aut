@@ -4,10 +4,10 @@
 | ---- | ---------- | ---------------------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 1    | 2016002170 | MAMUN MD ALL                       |      |      |      |      |      |      |      |      |      |
 | 2    | 2016002171 | ANWAR MOHAMMAD SAZZAD BIN          | 1    | 1 | 1 |      |      |      |      |      |      |
-| 3    | 2016002176 | BABU SADDAM HOSSAIN                |      |      |      |      |      |      |      |      |      |
+| 3    | 2016002176 | BABU SADDAM HOSSAIN                |      |      | 1 |      |      |      |      |      |      |
 | 4    | 2016002179 | HOSEN TANBIR                       |      |      |      |      |      |      |      |      |      |
 | 5    | 2016002181 | KABARA MICHAEL JACKSON             |      |      |      |      |      |      |      |      |      |
-| 6    | 2016006810 | NOOR MD GOLAM                      | 1    | 1 |      |      |      |      |      |      |      |
+| 6    | 2016006810 | NOOR MD GOLAM                      | 1    | 1 | 1 |      |      |      |      |      |      |
 | 7    | 2016006819 | MIAH ROKIB                         | 1    | 1 |      |      |      |      |      |      |      |
 | 8    | 2017001105 | AHAMED KAMAR-EDDINE                | 1 |      |      |      |      |      |      |      |      |
 | 9    | 2017001106 | RIDLEY ONYA                        |      |      |      |      |      |      |      |      |      |
@@ -54,12 +54,12 @@
 | 50   | 2017070099 | KARBOUSS SAIF-EDDINE               |      |      |      |      |      |      |      |      |      |
 | 51   | 2017070138 | MONDZOLA DIMITRI ROCH              | 1 |      | 1 |      |      |      |      |      |      |
 | 52   | 2017070162 | UWIMANA THERESE                    | 1 | 1     |      |      |      |      |      |      |      |
-| 53   | 2017070167 | MALAMBO LUSHOMO                    | 1 |      |      |      |      |      |      |      |      |
+| 53   | 2017070167 | MALAMBO LUSHOMO                    | 1 |      | 1 |      |      |      |      |      |      |
 | 54   | 2017070210 | ABEBE HERMELA ASMELASH             | 1 |      |      |      |      |      |      |      |      |
 | 55   | 2017070223 | ASHENGO BETHLIEM ASFAW             | 1 |      |      |      |      |      |      |      |      |
 | 56   | 2017070239 | SHIMWA ELVIS                       |      |      |      |      |      |      |      |      |      |
 | 57   | 2017070241 | NYONGWA RENIAS TALENT              |      |      | 1 |      |      |      |      |      |      |
-| 58   | 2017080002 | EJARA RUHAMA HAILU                 | 1    | 1     |      |      |      |      |      |      |      |
+| 58   | 2017080002 | EJARA RUHAMA HAILU                 | 1    | 1     | 1 |      |      |      |      |      |      |
 | 59   | 2017080021 | NEGERI HAWI DEMELASH               |      |      |      |      |      |      |      |      |      |
 | 60   | 2017080074 | OLEMBE ELVIS DESTIN                |      |      |      |      |      |      |      |      |      |
 | 61   | 2017080075 | GEBREAMANUEAL AMEN MEKRESELASSE    |      |      |      |      |      |      |      |      |      |
@@ -73,18 +73,17 @@
 | 69   | 2017080127 | ABUBEKER YASMIN MUSTEFA            | 1    | 1 | 1 |      |      |      |      |      |      |
 | 70   | 2017080129 | MOHAMMED AHMED KASIM               |      |      |      |      |      |      |      |      |      |
 | 71   | 2017080133 | BEN ABDALLAH DAOUD                 | 1 |  1    |      |      |      |      |      |      |      |
-| 72   | 2017080146 | NDUWINDAVYI ALINE JOELLE           |      |      |      |      |      |      |      |      |      |
+| 72   | 2017080146 | NDUWINDAVYI ALINE JOELLE           |      |      | 1 |      |      |      |      |      |      |
 | 73   | 2017080149 | MELESE ASHENAFI TESFAYE            |      |      |      |      |      |      |      |      |      |
 | 74   | 2017080158 | BEKELE MELIKT ZENEBE               | 1 |      |      |      |      |      |      |      |      |
 | 75   | 2017080181 | MUSARIRI JOYCE                     | 1 |      |      |      |      |      |      |      |      |
 | 76   | 2017080196 | BAKIZOV TLEUKABYL                  | 1    | 1 |      |      |      |      |      |      |      |
 | 77   | 2017080198 | KANYUNYUMALA CLIFFORD TAPIWA       |      |      |      |      |      |      |      |      |      |
 | 78   | 2017080220 | OUMAI ANAS                         |      |      |      |      |      |      |      |      |      |
-| 79   | 2017090007 | TELILA BRUKTAWIT HABTE             |      |      |      |      |      |      |      |      |      |
+| 79   | 2017090007 | TELILA BRUKTAWIT HABTE             |      |      | 1 |      |      |      |      |      |      |
 | 80   | 2017090025 | ASFAHA SAMUEL ABRAHAM              |      |      |      |      |      |      |      |      |      |
 | 81 | 2016002136 |  | 1 | | | | | | | | |
 | 82 | 2016006814 |  |  | | | | | | | | |
-| 83 |            |                                    |      |      | | | | | | | |
+| 83 |            |                                    |      |      |      | | | | | | |
 | 84 | 2016006802 | ANTU SEN | |  | 1 | | | | | | |
 | 85 | 2016006812 | AHMED RAJU | |  | 1 | | | | | | |
-| 86 | 2016090007 | Bruktawit Habte | | | 1 | | | | | | |
