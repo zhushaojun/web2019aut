@@ -3,7 +3,7 @@
 | 序号 | 学号       | 姓名                               | 8    | 9    | 10   | 11   | 12   | 13   | 14   | 15   | 16   |
 | ---- | ---------- | ---------------------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 1    | 2016002170 | MAMUN MD ALL                       |      |      |      |      |      |      |      |      |      |
-| 2    | 2016002171 | ANWAR MOHAMMAD SAZZAD BIN          | 1    | 1 |      |      |      |      |      |      |      |
+| 2    | 2016002171 | ANWAR MOHAMMAD SAZZAD BIN          | 1    | 1 | 1 |      |      |      |      |      |      |
 | 3    | 2016002176 | BABU SADDAM HOSSAIN                |      |      |      |      |      |      |      |      |      |
 | 4    | 2016002179 | HOSEN TANBIR                       |      |      |      |      |      |      |      |      |      |
 | 5    | 2016002181 | KABARA MICHAEL JACKSON             |      |      |      |      |      |      |      |      |      |
@@ -12,7 +12,7 @@
 | 8    | 2017001105 | AHAMED KAMAR-EDDINE                | 1 |      |      |      |      |      |      |      |      |
 | 9    | 2017001106 | RIDLEY ONYA                        |      |      |      |      |      |      |      |      |      |
 | 10   | 2017002101 | JONY MD OLIULLAH                   |      |      |      |      |      |      |      |      |      |
-| 11   | 2017002102 | SHIHAM MD TAYEF                    | 1    | 1 |      |      |      |      |      |      |      |
+| 11   | 2017002102 | SHIHAM MD TAYEF                    | 1    | 1 | 1 |      |      |      |      |      |      |
 | 12   | 2017002103 | SHAWON MD JAHUNGIR HOSSAIN         | 1     | 1 | 1 |      |      |      |      |      |      |
 | 13   | 2017002104 | KADER MOHAMMAD ABDUL               |      |      |      |      |      |      |      |      |      |
 | 14   | 2017002105 | ALAM MD JAHANGIR                   | 1     | 1     |      |      |      |      |      |      |      |
@@ -21,9 +21,9 @@
 | 17   | 2017002110 | NGOMO NCHAMA SONIA GAUDENCIA BILE  |      |      |      |      |      |      |      |      |      |
 | 18   | 2017002111 | AL-SUBARI GEBRAN GAMAL MOUTHNA ALI | 1 | 1 |      |      |      |      |      |      |      |
 | 19   | 2017002112 | SHEJA MARIE FRANCE CREDIA          | 1 |      |      |      |      |      |      |      |      |
-| 20   | 2017002113 | UGWU KINGSLEY CHISOM               | 1 | 1 |      |      |      |      |      |      |      |
+| 20   | 2017002113 | UGWU KINGSLEY CHISOM               | 1 | 1 | 1 |      |      |      |      |      |      |
 | 21   | 2017002114 | RAHMAN MD MOSTAFIZUR               | 1    | 1 | 1 |      |      |      |      |      |      |
-| 22   | 2017002115 | MEHEDI MD ASIF                     | 1    | 1 |      |      |      |      |      |      |      |
+| 22   | 2017002115 | MEHEDI MD ASIF                     | 1    | 1 | 1 |      |      |      |      |      |      |
 | 23   | 2017002116 | MANZA NAMWEMA                      | 1    | 1 |      |      |      |      |      |      |      |
 | 24   | 2017002117 | ROY DIPTO                          | 1    | 1 | 1 |      |      |      |      |      |      |
 | 25   | 2017003116 | ALAM MD ASHRAFUL                   | 1    |  1    |      |      |      |      |      |      |      |
@@ -32,7 +32,7 @@
 | 28   | 2017050010 | NIYONGABO JUVENAL                  | 1    |      |      |      |      |      |      |      |      |
 | 29   | 2017050039 | NIYIBIZI ELYSEE                    |      |      |      |      |      |      |      |      |      |
 | 30   | 2017050041 | KAPFUDZARUVA SALIMA CHIEDZA        |      |      |      |      |      |      |      |      |      |
-| 31   | 2017050043 | TENDAYI ELISHAMA                   | 1 |      |      |      |      |      |      |      |      |
+| 31   | 2017050043 | TENDAYI ELISHAMA                   | 1 |      | 1 |      |      |      |      |      |      |
 | 32   | 2017050044 | INKOOM KWEKU MENSAH                | 1 |      |      |      |      |      |      |      |      |
 | 33   | 2017060003 | NGANGA SAILAS                      |      |      |      |      |      |      |      |      |      |
 | 34   | 2017060025 | TARUVINGIRA MUSSAH                 | 1 |      |      |      |      |      |      |      |      |
@@ -52,13 +52,13 @@
 | 48   | 2017070092 | BARILA LOMPE MARCOS                | 1 |      |      |      |      |      |      |      |      |
 | 49   | 2017070098 | NURU TOFIK SEID                    |      |      |      |      |      |      |      |      |      |
 | 50   | 2017070099 | KARBOUSS SAIF-EDDINE               |      |      |      |      |      |      |      |      |      |
-| 51   | 2017070138 | MONDZOLA DIMITRI ROCH              | 1 |      |      |      |      |      |      |      |      |
+| 51   | 2017070138 | MONDZOLA DIMITRI ROCH              | 1 |      | 1 |      |      |      |      |      |      |
 | 52   | 2017070162 | UWIMANA THERESE                    | 1 | 1     |      |      |      |      |      |      |      |
 | 53   | 2017070167 | MALAMBO LUSHOMO                    | 1 |      |      |      |      |      |      |      |      |
 | 54   | 2017070210 | ABEBE HERMELA ASMELASH             | 1 |      |      |      |      |      |      |      |      |
 | 55   | 2017070223 | ASHENGO BETHLIEM ASFAW             | 1 |      |      |      |      |      |      |      |      |
 | 56   | 2017070239 | SHIMWA ELVIS                       |      |      |      |      |      |      |      |      |      |
-| 57   | 2017070241 | NYONGWA RENIAS TALENT              |      |      |      |      |      |      |      |      |      |
+| 57   | 2017070241 | NYONGWA RENIAS TALENT              |      |      | 1 |      |      |      |      |      |      |
 | 58   | 2017080002 | EJARA RUHAMA HAILU                 | 1    | 1     |      |      |      |      |      |      |      |
 | 59   | 2017080021 | NEGERI HAWI DEMELASH               |      |      |      |      |      |      |      |      |      |
 | 60   | 2017080074 | OLEMBE ELVIS DESTIN                |      |      |      |      |      |      |      |      |      |
@@ -85,3 +85,5 @@
 | 81 | 2016002136 |  | 1 | | | | | | | | |
 | 82 | 2016006814 |  |  | | | | | | | | |
 | 83 | 2016006819 | | | 1 | | | | | | | |
+| 84 | 2016006802 | ANTU SEN | |  | 1 | | | | | | |
+| 85 | 2016006812 | AHMED RAJU | |  | 1 | | | | | | |
