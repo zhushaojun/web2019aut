@@ -64,10 +64,10 @@
 | 60   | 2017080074 | OLEMBE ELVIS DESTIN                |      |      |
 | 61   | 2017080075 | GEBREAMANUEAL AMEN MEKRESELASSE    |      |      |
 | 62   | 2017080080 | MAKOPO EVERT                       | https://github.com/bennyxbojan/notes | https://bennyxbojan.github.io/notes/ |
-| 63   | 2017080089 | ASELE MITIK BANCHA                 |      |      |
+| 63   | 2017080089 | ASELE MITIK BANCHA                 | https://github.com/MitkJina/mitk | https://mitkjina.github.io/mitk/ |
 | 64   | 2017080108 | HUNDE MELAT DECHASA                | https://github.com/melaniD/Online-shopping-for-Women-Site | https://melanid.github.io/Online-shopping-for-Women-Site/ |
 | 65   | 2017080109 | AYANA SARON HAILE                  |      |      |
-| 66   | 2017080112 | KANYARUGANO TANGUY-NOLAIN          |      |      |
+| 66   | 2017080112 | KANYARUGANO TANGUY-NOLAIN          | https://github.com/tanolain/POPO-S- | https://tanolain.github.io/POPO-S-/ |
 | 67   | 2017080120 | BENTIL RICHARD                     |      |      |
 | 68   | 2017080123 | SAM-JOLLY AKINTAYO EZEKIEL         |      |      |
 | 69   | 2017080127 | ABUBEKER YASMIN MUSTEFA            |  |  |

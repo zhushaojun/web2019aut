@@ -8,7 +8,7 @@
 | 4    | 2016002179 | HOSEN TANBIR                       |      |      |      |      |      |      |      |      |      |
 | 5    | 2016002181 | KABARA MICHAEL JACKSON             |      |      |      |      |      |      |      |      |      |
 | 6    | 2016006810 | NOOR MD GOLAM                      | 1    | 1 | 1 |      |      |      |      |      |      |
-| 7    | 2016006819 | MIAH ROKIB                         | 1    | 1 |      |      |      |      |      |      |      |
+| 7    | 2016006819 | MIAH ROKIB                         | 1    | 1 | 1 |      |      |      |      |      |      |
 | 8    | 2017001105 | AHAMED KAMAR-EDDINE                | 1 |      |      |      |      |      |      |      |      |
 | 9    | 2017001106 | RIDLEY ONYA                        |      |      |      |      |      |      |      |      |      |
 | 10   | 2017002101 | JONY MD OLIULLAH                   |      |      |      |      |      |      |      |      |      |
@@ -64,10 +64,10 @@
 | 60   | 2017080074 | OLEMBE ELVIS DESTIN                |      |      |      |      |      |      |      |      |      |
 | 61   | 2017080075 | GEBREAMANUEAL AMEN MEKRESELASSE    |      |      |      |      |      |      |      |      |      |
 | 62   | 2017080080 | MAKOPO EVERT                       | 1 |      |      |      |      |      |      |      |      |
-| 63   | 2017080089 | ASELE MITIK BANCHA                 | 1 |      |      |      |      |      |      |      |      |
-| 64   | 2017080108 | HUNDE MELAT DECHASA                | 1 |      |      |      |      |      |      |      |      |
+| 63   | 2017080089 | ASELE MITIK BANCHA                 | 1 |      | 1 |      |      |      |      |      |      |
+| 64   | 2017080108 | HUNDE MELAT DECHASA                | 1 |      | 1 |      |      |      |      |      |      |
 | 65   | 2017080109 | AYANA SARON HAILE                  |      |      |      |      |      |      |      |      |      |
-| 66   | 2017080112 | KANYARUGANO TANGUY-NOLAIN          | 1 | 1     |      |      |      |      |      |      |      |
+| 66   | 2017080112 | KANYARUGANO TANGUY-NOLAIN          | 1 | 1     | 1 |      |      |      |      |      |      |
 | 67   | 2017080120 | BENTIL RICHARD                     |      |      |      |      |      |      |      |      |      |
 | 68   | 2017080123 | SAM-JOLLY AKINTAYO EZEKIEL         | 1 |      |      |      |      |      |      |      |      |
 | 69   | 2017080127 | ABUBEKER YASMIN MUSTEFA            | 1    | 1 | 1 |      |      |      |      |      |      |
