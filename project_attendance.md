@@ -12,11 +12,11 @@
 | 8    | 2017001105 | AHAMED KAMAR-EDDINE                | 1 |      |      |      |      |      |      |      |      |
 | 9    | 2017001106 | RIDLEY ONYA                        |      |      |      |      |      |      |      |      |      |
 | 10   | 2017002101 | JONY MD OLIULLAH                   |      |      |      |      |      |      |      |      |      |
-| 11   | 2017002102 | SHIHAM MD TAYEF                    | 1    | 1 | 1 |      |      |      |      |      |      |
+| 11   | 2017002102 | SHIHAM MD TAYEF                    | 1    | 1 | 1 | 1 |      |      |      |      |      |
 | 12   | 2017002103 | SHAWON MD JAHUNGIR HOSSAIN         | 1     | 1 | 1 | 1 |      |      |      |      |      |
 | 13   | 2017002104 | KADER MOHAMMAD ABDUL               |      |      |      |      |      |      |      |      |      |
 | 14   | 2017002105 | ALAM MD JAHANGIR                   | 1     | 1     |      |      |      |      |      |      |      |
-| 15   | 2017002106 | NELOY MAHADI SAJJAD                | 1    |   1   |   1   |      |      |      |      |      |      |
+| 15   | 2017002106 | NELOY MAHADI SAJJAD                | 1    |   1   |   1   | 1 |      |      |      |      |      |
 | 16   | 2017002107 | ANIK MEHEDI HASAN                  |      |      |      |      |      |      |      |      |      |
 | 17   | 2017002110 | NGOMO NCHAMA SONIA GAUDENCIA BILE  |      |      |      |      |      |      |      |      |      |
 | 18   | 2017002111 | AL-SUBARI GEBRAN GAMAL MOUTHNA ALI | 1 | 1 |      |      |      |      |      |      |      |
@@ -28,8 +28,8 @@
 | 24   | 2017002117 | ROY DIPTO                          | 1    | 1 | 1 | 1 |      |      |      |      |      |
 | 25   | 2017003116 | ALAM MD ASHRAFUL                   | 1    |  1    | 1 |      |      |      |      |      |      |
 | 26   | 2017040054 | MUTARINGE LAW                      |      |      |      |      |      |      |      |      |      |
-| 27   | 2017040056 | CHIHWEHWETE AMAZIAH                | 1 |      | 1 |      |      |      |      |      |      |
-| 28   | 2017050010 | NIYONGABO JUVENAL                  | 1    |      |      |      |      |      |      |      |      |
+| 27   | 2017040056 | CHIHWEHWETE AMAZIAH                | 1 |      | 1 | 1 |      |      |      |      |      |
+| 28   | 2017050010 | NIYONGABO JUVENAL                  | 1    |      |      | 1 |      |      |      |      |      |
 | 29   | 2017050039 | NIYIBIZI ELYSEE                    |      |      |      |      |      |      |      |      |      |
 | 30   | 2017050041 | KAPFUDZARUVA SALIMA CHIEDZA        |      |      |      |      |      |      |      |      |      |
 | 31   | 2017050043 | TENDAYI ELISHAMA                   | 1 |      | 1 |      |      |      |      |      |      |
@@ -45,7 +45,7 @@
 | 41   | 2017070045 | DIALLO ISMAILA                     |      |      |      |      |      |      |      |      |      |
 | 42   | 2017070054 | OJOK BENJAMIN RONALD               |      |      |      |      |      |      |      |      |      |
 | 43   | 2017070055 | DEJENE GETAHUN SHIFERAW            |      |      |      |      |      |      |      |      |      |
-| 44   | 2017070059 | CHIUTSI TINOTENDA PRIDE            |      | 1     | 1 |      |      |      |      |      |      |
+| 44   | 2017070059 | CHIUTSI TINOTENDA PRIDE            |      | 1     | 1 | 1 |      |      |      |      |      |
 | 45   | 2017070067 | GIDEY ROMHA TEKLE                  |      |      |      |      |      |      |      |      |      |
 | 46   | 2017070068 | KEBEDE HERMON ASEFA                |      |      |      |      |      |      |      |      |      |
 | 47   | 2017070077 | LEMA EYASU FEKADU                  |      |      |      |      |      |      |      |      |      |
