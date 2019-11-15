@@ -3,11 +3,11 @@
 | 序号 | 学号       | 姓名                               | 8    | 9    | 10   | 11   | 12   | 13   | 14   | 15   | 16   |
 | ---- | ---------- | ---------------------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 1    | 2016002170 | MAMUN MD ALL                       |      |      |      |      |      |      |      |      |      |
-| 2    | 2016002171 | ANWAR MOHAMMAD SAZZAD BIN          | 1    | 1 | 1 |      |      |      |      |      |      |
+| 2    | 2016002171 | ANWAR MOHAMMAD SAZZAD BIN          | 1    | 1 | 1 | 1 |      |      |      |      |      |
 | 3    | 2016002176 | BABU SADDAM HOSSAIN                |      |      | 1 |      |      |      |      |      |      |
 | 4    | 2016002179 | HOSEN TANBIR                       |      |      |      |      |      |      |      |      |      |
 | 5    | 2016002181 | KABARA MICHAEL JACKSON             |      |      |      |      |      |      |      |      |      |
-| 6    | 2016006810 | NOOR MD GOLAM                      | 1    | 1 | 1 |      |      |      |      |      |      |
+| 6    | 2016006810 | NOOR MD GOLAM                      | 1    | 1 | 1 | 1 |      |      |      |      |      |
 | 7    | 2016006819 | MIAH ROKIB                         | 1    | 1 | 1 | 1 |      |      |      |      |      |
 | 8    | 2017001105 | AHAMED KAMAR-EDDINE                | 1 |      |      |      |      |      |      |      |      |
 | 9    | 2017001106 | RIDLEY ONYA                        |      |      |      |      |      |      |      |      |      |
@@ -18,8 +18,8 @@
 | 14   | 2017002105 | ALAM MD JAHANGIR                   | 1     | 1     |      |      |      |      |      |      |      |
 | 15   | 2017002106 | NELOY MAHADI SAJJAD                | 1    |   1   |   1   | 1 |      |      |      |      |      |
 | 16   | 2017002107 | ANIK MEHEDI HASAN                  |      |      |      |      |      |      |      |      |      |
-| 17   | 2017002110 | NGOMO NCHAMA SONIA GAUDENCIA BILE  |      |      |      |      |      |      |      |      |      |
-| 18   | 2017002111 | AL-SUBARI GEBRAN GAMAL MOUTHNA ALI | 1 | 1 |      |      |      |      |      |      |      |
+| 17   | 2017002110 | NGOMO NCHAMA SONIA GAUDENCIA BILE  |      |      |      | 1 |      |      |      |      |      |
+| 18   | 2017002111 | AL-SUBARI GEBRAN GAMAL MOUTHNA ALI | 1 | 1 |      | 1 |      |      |      |      |      |
 | 19   | 2017002112 | SHEJA MARIE FRANCE CREDIA          | 1 |      |      | 1 |      |      |      |      |      |
 | 20   | 2017002113 | UGWU KINGSLEY CHISOM               | 1 | 1 | 1 | 1 |      |      |      |      |      |
 | 21   | 2017002114 | RAHMAN MD MOSTAFIZUR               | 1    | 1 | 1 | 1 |      |      |      |      |      |
@@ -35,7 +35,7 @@
 | 31   | 2017050043 | TENDAYI ELISHAMA                   | 1 |      | 1 |      |      |      |      |      |      |
 | 32   | 2017050044 | INKOOM KWEKU MENSAH                | 1 |      | 1 | 1 |      |      |      |      |      |
 | 33   | 2017060003 | NGANGA SAILAS                      |      |      |      |      |      |      |      |      |      |
-| 34   | 2017060025 | TARUVINGIRA MUSSAH                 | 1 |      |      |      |      |      |      |      |      |
+| 34   | 2017060025 | TARUVINGIRA MUSSAH                 | 1 |      |      | 1 |      |      |      |      |      |
 | 35   | 2017060056 | MABHIZA CHIRAWU ALEC               | 1    | 1 | 1 | 1 |      |      |      |      |      |
 | 36   | 2017060069 | KABWEMBA EDWARD                    | 1 |      | 1 |      |      |      |      |      |      |
 | 37   | 2017070007 | CHITEMBURE RUTENDO                 |      |      |      |      |      |      |      |      |      |
@@ -70,13 +70,13 @@
 | 66   | 2017080112 | KANYARUGANO TANGUY-NOLAIN          | 1 | 1     | 1 |      |      |      |      |      |      |
 | 67   | 2017080120 | BENTIL RICHARD                     |      |      |      |      |      |      |      |      |      |
 | 68   | 2017080123 | SAM-JOLLY AKINTAYO EZEKIEL         | 1 |      |      |      |      |      |      |      |      |
-| 69   | 2017080127 | ABUBEKER YASMIN MUSTEFA            | 1    | 1 | 1 |      |      |      |      |      |      |
+| 69   | 2017080127 | ABUBEKER YASMIN MUSTEFA            | 1    | 1 | 1 | 1 |      |      |      |      |      |
 | 70   | 2017080129 | MOHAMMED AHMED KASIM               |      |      |      |      |      |      |      |      |      |
-| 71   | 2017080133 | BEN ABDALLAH DAOUD                 | 1 |  1    |      |      |      |      |      |      |      |
+| 71   | 2017080133 | BEN ABDALLAH DAOUD                 | 1 |  1    |      | 1 |      |      |      |      |      |
 | 72   | 2017080146 | NDUWINDAVYI ALINE JOELLE           |      |      | 1 | 1 |      |      |      |      |      |
 | 73   | 2017080149 | MELESE ASHENAFI TESFAYE            |      |      |      |      |      |      |      |      |      |
 | 74   | 2017080158 | BEKELE MELIKT ZENEBE               | 1 |      |      |      |      |      |      |      |      |
-| 75   | 2017080181 | MUSARIRI JOYCE                     | 1 |      |      |      |      |      |      |      |      |
+| 75   | 2017080181 | MUSARIRI JOYCE                     | 1 |      |      | 1 |      |      |      |      |      |
 | 76   | 2017080196 | BAKIZOV TLEUKABYL                  | 1    | 1 |      | 1 |      |      |      |      |      |
 | 77   | 2017080198 | KANYUNYUMALA CLIFFORD TAPIWA       |      |      |      |      |      |      |      |      |      |
 | 78   | 2017080220 | OUMAI ANAS                         |      |      |      |      |      |      |      |      |      |
@@ -85,5 +85,5 @@
 | 81 | 2016002136 |  | 1 | | | | | | | | |
 | 82 | 2016006814 |  |  | | | | | | | | |
 | 83 |            |                                    |      |      |      | | | | | | |
-| 84 | 2016006802 | ANTU SEN | |  | 1 | | | | | | |
+| 84 | 2016006802 | ANTU SEN | |  | 1 | 1 | | | | | |
 | 85 | 2016006812 | AHMED RAJU | |  | 1 | | | | | | |
