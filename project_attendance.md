@@ -15,7 +15,7 @@
 | 11   | 2017002102 | SHIHAM MD TAYEF                    | 1    | 1 | 1 | 1 |      |      |      |      |      |
 | 12   | 2017002103 | SHAWON MD JAHUNGIR HOSSAIN         | 1     | 1 | 1 | 1 |      |      |      |      |      |
 | 13   | 2017002104 | KADER MOHAMMAD ABDUL               |      |      |      |      |      |      |      |      |      |
-| 14   | 2017002105 | ALAM MD JAHANGIR                   | 1     | 1     |      |      |      |      |      |      |      |
+| 14   | 2017002105 | ALAM MD JAHANGIR                   | 1     | 1     |      | 1 |      |      |      |      |      |
 | 15   | 2017002106 | NELOY MAHADI SAJJAD                | 1    |   1   |   1   | 1 |      |      |      |      |      |
 | 16   | 2017002107 | ANIK MEHEDI HASAN                  |      |      |      |      |      |      |      |      |      |
 | 17   | 2017002110 | NGOMO NCHAMA SONIA GAUDENCIA BILE  |      |      |      | 1 |      |      |      |      |      |
@@ -26,7 +26,7 @@
 | 22   | 2017002115 | MEHEDI MD ASIF                     | 1    | 1 | 1 | 1 |      |      |      |      |      |
 | 23   | 2017002116 | MANZA NAMWEMA                      | 1    | 1 |      |      |      |      |      |      |      |
 | 24   | 2017002117 | ROY DIPTO                          | 1    | 1 | 1 | 1 |      |      |      |      |      |
-| 25   | 2017003116 | ALAM MD ASHRAFUL                   | 1    |  1    | 1 |      |      |      |      |      |      |
+| 25   | 2017003116 | ALAM MD ASHRAFUL                   | 1    |  1    | 1 | 1 |      |      |      |      |      |
 | 26   | 2017040054 | MUTARINGE LAW                      |      |      |      |      |      |      |      |      |      |
 | 27   | 2017040056 | CHIHWEHWETE AMAZIAH                | 1 |      | 1 | 1 |      |      |      |      |      |
 | 28   | 2017050010 | NIYONGABO JUVENAL                  | 1    |      |      | 1 |      |      |      |      |      |
@@ -37,7 +37,7 @@
 | 33   | 2017060003 | NGANGA SAILAS                      |      |      |      |      |      |      |      |      |      |
 | 34   | 2017060025 | TARUVINGIRA MUSSAH                 | 1 |      |      | 1 |      |      |      |      |      |
 | 35   | 2017060056 | MABHIZA CHIRAWU ALEC               | 1    | 1 | 1 | 1 |      |      |      |      |      |
-| 36   | 2017060069 | KABWEMBA EDWARD                    | 1 |      | 1 |      |      |      |      |      |      |
+| 36   | 2017060069 | KABWEMBA EDWARD                    | 1 |      | 1 | 1 |      |      |      |      |      |
 | 37   | 2017070007 | CHITEMBURE RUTENDO                 |      |      |      |      |      |      |      |      |      |
 | 38   | 2017070030 | MUTONI TONY STEIN                  |      |      |      |      |      |      |      |      |      |
 | 39   | 2017070032 | AYIGUHAYE YVES                     | 1 |      |      |      |      |      |      |      |      |
@@ -52,7 +52,7 @@
 | 48   | 2017070092 | BARILA LOMPE MARCOS                | 1 |      | 1 | 1 |      |      |      |      |      |
 | 49   | 2017070098 | NURU TOFIK SEID                    |      |      |      |      |      |      |      |      |      |
 | 50   | 2017070099 | KARBOUSS SAIF-EDDINE               |      |      |      |      |      |      |      |      |      |
-| 51   | 2017070138 | MONDZOLA DIMITRI ROCH              | 1 |      | 1 |      |      |      |      |      |      |
+| 51   | 2017070138 | MONDZOLA DIMITRI ROCH              | 1 |      | 1 | 1 |      |      |      |      |      |
 | 52   | 2017070162 | UWIMANA THERESE                    | 1 | 1     |      |      |      |      |      |      |      |
 | 53   | 2017070167 | MALAMBO LUSHOMO                    | 1 |      | 1 |      |      |      |      |      |      |
 | 54   | 2017070210 | ABEBE HERMELA ASMELASH             | 1 |      |      |      |      |      |      |      |      |
