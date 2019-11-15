@@ -8,7 +8,7 @@
 | 4    | 2016002179 | HOSEN TANBIR                       |      |      |      |      |      |      |      |      |      |
 | 5    | 2016002181 | KABARA MICHAEL JACKSON             |      |      |      |      |      |      |      |      |      |
 | 6    | 2016006810 | NOOR MD GOLAM                      | 1    | 1 | 1 |      |      |      |      |      |      |
-| 7    | 2016006819 | MIAH ROKIB                         | 1    | 1 | 1 |      |      |      |      |      |      |
+| 7    | 2016006819 | MIAH ROKIB                         | 1    | 1 | 1 | 1 |      |      |      |      |      |
 | 8    | 2017001105 | AHAMED KAMAR-EDDINE                | 1 |      |      |      |      |      |      |      |      |
 | 9    | 2017001106 | RIDLEY ONYA                        |      |      |      |      |      |      |      |      |      |
 | 10   | 2017002101 | JONY MD OLIULLAH                   |      |      |      |      |      |      |      |      |      |
@@ -20,7 +20,7 @@
 | 16   | 2017002107 | ANIK MEHEDI HASAN                  |      |      |      |      |      |      |      |      |      |
 | 17   | 2017002110 | NGOMO NCHAMA SONIA GAUDENCIA BILE  |      |      |      |      |      |      |      |      |      |
 | 18   | 2017002111 | AL-SUBARI GEBRAN GAMAL MOUTHNA ALI | 1 | 1 |      |      |      |      |      |      |      |
-| 19   | 2017002112 | SHEJA MARIE FRANCE CREDIA          | 1 |      |      |      |      |      |      |      |      |
+| 19   | 2017002112 | SHEJA MARIE FRANCE CREDIA          | 1 |      |      | 1 |      |      |      |      |      |
 | 20   | 2017002113 | UGWU KINGSLEY CHISOM               | 1 | 1 | 1 | 1 |      |      |      |      |      |
 | 21   | 2017002114 | RAHMAN MD MOSTAFIZUR               | 1    | 1 | 1 | 1 |      |      |      |      |      |
 | 22   | 2017002115 | MEHEDI MD ASIF                     | 1    | 1 | 1 | 1 |      |      |      |      |      |
@@ -49,7 +49,7 @@
 | 45   | 2017070067 | GIDEY ROMHA TEKLE                  |      |      |      |      |      |      |      |      |      |
 | 46   | 2017070068 | KEBEDE HERMON ASEFA                |      |      |      |      |      |      |      |      |      |
 | 47   | 2017070077 | LEMA EYASU FEKADU                  |      |      |      |      |      |      |      |      |      |
-| 48   | 2017070092 | BARILA LOMPE MARCOS                | 1 |      | 1 |      |      |      |      |      |      |
+| 48   | 2017070092 | BARILA LOMPE MARCOS                | 1 |      | 1 | 1 |      |      |      |      |      |
 | 49   | 2017070098 | NURU TOFIK SEID                    |      |      |      |      |      |      |      |      |      |
 | 50   | 2017070099 | KARBOUSS SAIF-EDDINE               |      |      |      |      |      |      |      |      |      |
 | 51   | 2017070138 | MONDZOLA DIMITRI ROCH              | 1 |      | 1 |      |      |      |      |      |      |
@@ -73,7 +73,7 @@
 | 69   | 2017080127 | ABUBEKER YASMIN MUSTEFA            | 1    | 1 | 1 |      |      |      |      |      |      |
 | 70   | 2017080129 | MOHAMMED AHMED KASIM               |      |      |      |      |      |      |      |      |      |
 | 71   | 2017080133 | BEN ABDALLAH DAOUD                 | 1 |  1    |      |      |      |      |      |      |      |
-| 72   | 2017080146 | NDUWINDAVYI ALINE JOELLE           |      |      | 1 |      |      |      |      |      |      |
+| 72   | 2017080146 | NDUWINDAVYI ALINE JOELLE           |      |      | 1 | 1 |      |      |      |      |      |
 | 73   | 2017080149 | MELESE ASHENAFI TESFAYE            |      |      |      |      |      |      |      |      |      |
 | 74   | 2017080158 | BEKELE MELIKT ZENEBE               | 1 |      |      |      |      |      |      |      |      |
 | 75   | 2017080181 | MUSARIRI JOYCE                     | 1 |      |      |      |      |      |      |      |      |
