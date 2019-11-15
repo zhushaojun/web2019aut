@@ -32,7 +32,7 @@
 | 28   | 2017050010 | NIYONGABO JUVENAL                  | 1    |      |      | 1 |      |      |      |      |      |
 | 29   | 2017050039 | NIYIBIZI ELYSEE                    |      |      |      |      |      |      |      |      |      |
 | 30   | 2017050041 | KAPFUDZARUVA SALIMA CHIEDZA        |      |      |      |      |      |      |      |      |      |
-| 31   | 2017050043 | TENDAYI ELISHAMA                   | 1 |      | 1 |      |      |      |      |      |      |
+| 31   | 2017050043 | TENDAYI ELISHAMA                   | 1 |      | 1 | 1 |      |      |      |      |      |
 | 32   | 2017050044 | INKOOM KWEKU MENSAH                | 1 |      | 1 | 1 |      |      |      |      |      |
 | 33   | 2017060003 | NGANGA SAILAS                      |      |      |      |      |      |      |      |      |      |
 | 34   | 2017060025 | TARUVINGIRA MUSSAH                 | 1 |      |      | 1 |      |      |      |      |      |
@@ -53,7 +53,7 @@
 | 49   | 2017070098 | NURU TOFIK SEID                    |      |      |      |      |      |      |      |      |      |
 | 50   | 2017070099 | KARBOUSS SAIF-EDDINE               |      |      |      |      |      |      |      |      |      |
 | 51   | 2017070138 | MONDZOLA DIMITRI ROCH              | 1 |      | 1 | 1 |      |      |      |      |      |
-| 52   | 2017070162 | UWIMANA THERESE                    | 1 | 1     |      |      |      |      |      |      |      |
+| 52   | 2017070162 | UWIMANA THERESE                    | 1 | 1     |      | 1 |      |      |      |      |      |
 | 53   | 2017070167 | MALAMBO LUSHOMO                    | 1 |      | 1 |      |      |      |      |      |      |
 | 54   | 2017070210 | ABEBE HERMELA ASMELASH             | 1 |      |      |      |      |      |      |      |      |
 | 55   | 2017070223 | ASHENGO BETHLIEM ASFAW             | 1 |      |      |      |      |      |      |      |      |
@@ -67,7 +67,7 @@
 | 63   | 2017080089 | ASELE MITIK BANCHA                 | 1 |      | 1 |      |      |      |      |      |      |
 | 64   | 2017080108 | HUNDE MELAT DECHASA                | 1 |      | 1 | 1 |      |      |      |      |      |
 | 65   | 2017080109 | AYANA SARON HAILE                  |      |      |      |      |      |      |      |      |      |
-| 66   | 2017080112 | KANYARUGANO TANGUY-NOLAIN          | 1 | 1     | 1 |      |      |      |      |      |      |
+| 66   | 2017080112 | KANYARUGANO TANGUY-NOLAIN          | 1 | 1     | 1 | 1 |      |      |      |      |      |
 | 67   | 2017080120 | BENTIL RICHARD                     |      |      |      |      |      |      |      |      |      |
 | 68   | 2017080123 | SAM-JOLLY AKINTAYO EZEKIEL         | 1 |      |      |      |      |      |      |      |      |
 | 69   | 2017080127 | ABUBEKER YASMIN MUSTEFA            | 1    | 1 | 1 | 1 |      |      |      |      |      |
@@ -80,10 +80,10 @@
 | 76   | 2017080196 | BAKIZOV TLEUKABYL                  | 1    | 1 |      | 1 |      |      |      |      |      |
 | 77   | 2017080198 | KANYUNYUMALA CLIFFORD TAPIWA       |      |      |      |      |      |      |      |      |      |
 | 78   | 2017080220 | OUMAI ANAS                         |      |      |      |      |      |      |      |      |      |
-| 79   | 2017090007 | TELILA BRUKTAWIT HABTE             |      |      | 1 |      |      |      |      |      |      |
+| 79   | 2017090007 | TELILA BRUKTAWIT HABTE             |      |      | 1 | 1 |      |      |      |      |      |
 | 80   | 2017090025 | ASFAHA SAMUEL ABRAHAM              |      |      |      |      |      |      |      |      |      |
 | 81 | 2016002136 |  | 1 | | | | | | | | |
 | 82 | 2016006814 |  |  | | | | | | | | |
-| 83 |            |                                    |      |      |      | | | | | | |
+| 83 | 2016006809 |                                    |      |      |      | 1 | | | | | |
 | 84 | 2016006802 | ANTU SEN | |  | 1 | 1 | | | | | |
 | 85 | 2016006812 | AHMED RAJU | |  | 1 | | | | | | |
