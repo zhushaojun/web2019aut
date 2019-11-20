@@ -7,10 +7,20 @@ All discussions will be in Issues or face to face with me, so no wechat contacts
 # Announcements
 
 
+## npm 
+
+Because of the internet, install express will be very slow. You can add alibaba mirror to speedup the installation of node modules with following command
+``` bash
+npm config set registry http://registry.npm.taobao.org
+```
 
 ## 2019.11.20
 
-For week 12, you need to improve your plan for backend. You will need to stick to your plan at following weeks. Deploy your projects on to some cloud services and finish at least 1 feature.
+For week 12, you need to improve your plan for backend. You will need to stick to your plan at following weeks. Deploy your projects on to some cloud services and finish at least 1 feature. That means:
+1. CRUD operations on database
+2. Demo URLs on cloud services
+3. Regester and login feature is required for every project
+4. Backend codes need to be in Github too
 
 ## 2019.11.6
 
