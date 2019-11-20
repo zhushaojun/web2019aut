@@ -40,33 +40,33 @@
 | 36   | 2017060069 | KABWEMBA EDWARD                    | 1 |      | 1 | 1 |      |      |      |      |      |
 | 37   | 2017070007 | CHITEMBURE RUTENDO                 |      |      |      |      |      |      |      |      |      |
 | 38   | 2017070030 | MUTONI TONY STEIN                  |      |      |      |      |      |      |      |      |      |
-| 39   | 2017070032 | AYIGUHAYE YVES                     | 1 |      |      |      |      |      |      |      |      |
+| 39   | 2017070032 | AYIGUHAYE YVES                     | 1 |      |      | 1 |      |      |      |      |      |
 | 40   | 2017070040 | HAMID OUDJANA MOHAMMED ELAMINE     |      |      |      |      |      |      |      |      |      |
 | 41   | 2017070045 | DIALLO ISMAILA                     |      |      |      |      |      |      |      |      |      |
 | 42   | 2017070054 | OJOK BENJAMIN RONALD               |      |      |      |      |      |      |      |      |      |
 | 43   | 2017070055 | DEJENE GETAHUN SHIFERAW            |      |      |      |      |      |      |      |      |      |
 | 44   | 2017070059 | CHIUTSI TINOTENDA PRIDE            |      | 1     | 1 | 1 |      |      |      |      |      |
 | 45   | 2017070067 | GIDEY ROMHA TEKLE                  |      |      |      |      |      |      |      |      |      |
-| 46   | 2017070068 | KEBEDE HERMON ASEFA                |      |      |      |      |      |      |      |      |      |
+| 46   | 2017070068 | KEBEDE HERMON ASEFA                |      |      |      | 1 |      |      |      |      |      |
 | 47   | 2017070077 | LEMA EYASU FEKADU                  |      |      |      |      |      |      |      |      |      |
 | 48   | 2017070092 | BARILA LOMPE MARCOS                | 1 |      | 1 | 1 |      |      |      |      |      |
-| 49   | 2017070098 | NURU TOFIK SEID                    |      |      |      |      |      |      |      |      |      |
+| 49   | 2017070098 | NURU TOFIK SEID                    |      |      |      | 1 |      |      |      |      |      |
 | 50   | 2017070099 | KARBOUSS SAIF-EDDINE               |      |      |      |      |      |      |      |      |      |
 | 51   | 2017070138 | MONDZOLA DIMITRI ROCH              | 1 |      | 1 | 1 |      |      |      |      |      |
 | 52   | 2017070162 | UWIMANA THERESE                    | 1 | 1     |      | 1 |      |      |      |      |      |
-| 53   | 2017070167 | MALAMBO LUSHOMO                    | 1 |      | 1 |      |      |      |      |      |      |
-| 54   | 2017070210 | ABEBE HERMELA ASMELASH             | 1 |      |      |      |      |      |      |      |      |
-| 55   | 2017070223 | ASHENGO BETHLIEM ASFAW             | 1 |      |      |      |      |      |      |      |      |
+| 53   | 2017070167 | MALAMBO LUSHOMO                    | 1 |      | 1 | 1 |      |      |      |      |      |
+| 54   | 2017070210 | ABEBE HERMELA ASMELASH             | 1 |      |      | 1 |      |      |      |      |      |
+| 55   | 2017070223 | ASHENGO BETHLIEM ASFAW             | 1 |      |      | 1 |      |      |      |      |      |
 | 56   | 2017070239 | SHIMWA ELVIS                       |      |      |      |      |      |      |      |      |      |
 | 57   | 2017070241 | NYONGWA RENIAS TALENT              |      |      | 1 |      |      |      |      |      |      |
-| 58   | 2017080002 | EJARA RUHAMA HAILU                 | 1    | 1     | 1 |      |      |      |      |      |      |
-| 59   | 2017080021 | NEGERI HAWI DEMELASH               |      |      | 1 |      |      |      |      |      |      |
+| 58   | 2017080002 | EJARA RUHAMA HAILU                 | 1    | 1     | 1 | 1 |      |      |      |      |      |
+| 59   | 2017080021 | NEGERI HAWI DEMELASH               |      |      | 1 | 1 |      |      |      |      |      |
 | 60   | 2017080074 | OLEMBE ELVIS DESTIN                |      |      |      |      |      |      |      |      |      |
 | 61   | 2017080075 | GEBREAMANUEAL AMEN MEKRESELASSE    |      |      |      |      |      |      |      |      |      |
 | 62   | 2017080080 | MAKOPO EVERT                       | 1 |      |      |      |      |      |      |      |      |
-| 63   | 2017080089 | ASELE MITIK BANCHA                 | 1 |      | 1 |      |      |      |      |      |      |
+| 63   | 2017080089 | ASELE MITIK BANCHA                 | 1 |      | 1 | 1 |      |      |      |      |      |
 | 64   | 2017080108 | HUNDE MELAT DECHASA                | 1 |      | 1 | 1 |      |      |      |      |      |
-| 65   | 2017080109 | AYANA SARON HAILE                  |      |      |      |      |      |      |      |      |      |
+| 65   | 2017080109 | AYANA SARON HAILE                  |      |      |      | 1 |      |      |      |      |      |
 | 66   | 2017080112 | KANYARUGANO TANGUY-NOLAIN          | 1 | 1     | 1 | 1 |      |      |      |      |      |
 | 67   | 2017080120 | BENTIL RICHARD                     |      |      |      |      |      |      |      |      |      |
 | 68   | 2017080123 | SAM-JOLLY AKINTAYO EZEKIEL         | 1 |      |      |      |      |      |      |      |      |
@@ -74,8 +74,8 @@
 | 70   | 2017080129 | MOHAMMED AHMED KASIM               |      |      |      |      |      |      |      |      |      |
 | 71   | 2017080133 | BEN ABDALLAH DAOUD                 | 1 |  1    |      | 1 |      |      |      |      |      |
 | 72   | 2017080146 | NDUWINDAVYI ALINE JOELLE           |      |      | 1 | 1 |      |      |      |      |      |
-| 73   | 2017080149 | MELESE ASHENAFI TESFAYE            |      |      |      |      |      |      |      |      |      |
-| 74   | 2017080158 | BEKELE MELIKT ZENEBE               | 1 |      |      |      |      |      |      |      |      |
+| 73   | 2017080149 | MELESE ASHENAFI TESFAYE            |      |      |      | 1 |      |      |      |      |      |
+| 74   | 2017080158 | BEKELE MELIKT ZENEBE               | 1 |      |      | 1 |      |      |      |      |      |
 | 75   | 2017080181 | MUSARIRI JOYCE                     | 1 |      |      | 1 |      |      |      |      |      |
 | 76   | 2017080196 | BAKIZOV TLEUKABYL                  | 1    | 1 |      | 1 |      |      |      |      |      |
 | 77   | 2017080198 | KANYUNYUMALA CLIFFORD TAPIWA       |      |      |      |      |      |      |      |      |      |
