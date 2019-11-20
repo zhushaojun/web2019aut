@@ -4,7 +4,13 @@ All information about the 2 courses will be put in this repo.
 
 All discussions will be in Issues or face to face with me, so no wechat contacts.
 
-# Anouncements
+# Announcements
+
+
+
+## 2019.11.20
+
+For week 12, you need to improve your plan for backend. You will need to stick to your plan at following weeks. Deploy your projects on to some cloud services and finish at least 1 feature.
 
 ## 2019.11.6
 
@@ -71,7 +77,7 @@ Next week before you discuss with me, you should finish following things:
 5. Documents should be written in markdown, read this article to learn the syntax. [Basic writing and formatting syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
   # free cloud services to host your project
-  
+
   * https://www.heroku.com/
   * https://www.pythonanywhere.com/
   * https://www.openshift.com/
