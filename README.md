@@ -6,6 +6,9 @@ All discussions will be in Issues or face to face with me, so no wechat contacts
 
 # Announcements
 
+## 2019.11.21
+
+The deadline of week 12 is extended to next Monday, that is 2019.11.25.
 
 ## npm 
 
