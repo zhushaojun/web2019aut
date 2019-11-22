@@ -6,6 +6,14 @@ All discussions will be in Issues or face to face with me, so no wechat contacts
 
 # Announcements
 
+## Free cloud service
+
+You can try aws too. https://aws.amazon.com/free/
+
+1 year free
+
+Other cloud services are acceptable too. I only care that I can visit your website online.
+
 ## 2019.11.21
 
 The deadline of week 12 is extended to next Monday, that is 2019.11.25.
