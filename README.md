@@ -6,6 +6,14 @@ All discussions will be in Issues or face to face with me, so no wechat contacts
 
 # Announcements
 
+## 2019.11.26
+For week 13:
+1. Regester and login should be finished
+2. Give me an account when you submit
+3. At leaset 2 feature should be finished with CRUD operations in this week, point it out in issue
+4. node_modules shoud not be in github repo
+
+
 ## Free cloud service
 
 You can try aws too. https://aws.amazon.com/free/
