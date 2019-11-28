@@ -6,6 +6,9 @@ All discussions will be in Issues or face to face with me, so no wechat contacts
 
 # Announcements
 
+## 2019.11.28
+Firebase is not acceptable in this course. Use databases like Mongodb, MySQL, PostgrSQL. Operate database with nodejs, other languages are not acceptable.
+
 ## 2019.11.26
 For week 13:
 1. Regester and login should be finished
