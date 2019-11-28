@@ -21,7 +21,7 @@
 | 17   | 2017002110 | NGOMO NCHAMA SONIA GAUDENCIA BILE  |      |      |      | 1 |      |      |      |      |      |
 | 18   | 2017002111 | AL-SUBARI GEBRAN GAMAL MOUTHNA ALI | 1 | 1 |      | 1 | 1 |      |      |      |      |
 | 19   | 2017002112 | SHEJA MARIE FRANCE CREDIA          | 1 |      |      | 1 |      |      |      |      |      |
-| 20   | 2017002113 | UGWU KINGSLEY CHISOM               | 1 | 1 | 1 | 1 |      |      |      |      |      |
+| 20   | 2017002113 | UGWU KINGSLEY CHISOM               | 1 | 1 | 1 | 1 | 1 |      |      |      |      |
 | 21   | 2017002114 | RAHMAN MD MOSTAFIZUR               | 1    | 1 | 1 | 1 | 1 |      |      |      |      |
 | 22   | 2017002115 | MEHEDI MD ASIF                     | 1    | 1 | 1 | 1 | 1 |      |      |      |      |
 | 23   | 2017002116 | MANZA NAMWEMA                      | 1    | 1 |      |      |      |      |      |      |      |
@@ -36,7 +36,7 @@
 | 32   | 2017050044 | INKOOM KWEKU MENSAH                | 1 |      | 1 | 1 | 1 |      |      |      |      |
 | 33   | 2017060003 | NGANGA SAILAS                      |      |      |      |      | 1 |      |      |      |      |
 | 34   | 2017060025 | TARUVINGIRA MUSSAH                 | 1 |      |      | 1 | 1 |      |      |      |      |
-| 35   | 2017060056 | MABHIZA CHIRAWU ALEC               | 1    | 1 | 1 | 1 | 1 |      |      |      |      |
+| 35   | 2017060056 | MABHIZA CHIRAWU ALEC               | 1    | 1 | 1 | 1 | 1 | 1 |      |      |      |
 | 36   | 2017060069 | KABWEMBA EDWARD                    | 1 |      | 1 | 1 |      |      |      |      |      |
 | 37   | 2017070007 | CHITEMBURE RUTENDO                 |      |      |      |      |      |      |      |      |      |
 | 38   | 2017070030 | MUTONI TONY STEIN                  |      |      |      |      |      |      |      |      |      |
@@ -46,7 +46,7 @@
 | 42   | 2017070054 | OJOK BENJAMIN RONALD               |      |      |      |      |      |      |      |      |      |
 | 43   | 2017070055 | DEJENE GETAHUN SHIFERAW            |      |      |      |      |      |      |      |      |      |
 | 44   | 2017070059 | CHIUTSI TINOTENDA PRIDE            |      | 1     | 1 | 1 | 1 |      |      |      |      |
-| 45   | 2017070067 | GIDEY ROMHA TEKLE                  |      |      |      |      |      |      |      |      |      |
+| 45   | 2017070067 | GIDEY ROMHA TEKLE                  |      |      |      |      | 1 |      |      |      |      |
 | 46   | 2017070068 | KEBEDE HERMON ASEFA                |      |      |      | 1 |      |      |      |      |      |
 | 47   | 2017070077 | LEMA EYASU FEKADU                  |      |      |      |      |      |      |      |      |      |
 | 48   | 2017070092 | BARILA LOMPE MARCOS                | 1 |      | 1 | 1 | 1 |      |      |      |      |
@@ -67,10 +67,10 @@
 | 63   | 2017080089 | ASELE MITIK BANCHA                 | 1 |      | 1 | 1 |      |      |      |      |      |
 | 64   | 2017080108 | HUNDE MELAT DECHASA                | 1 |      | 1 | 1 | 1 |      |      |      |      |
 | 65   | 2017080109 | AYANA SARON HAILE                  |      |      |      | 1 |      |      |      |      |      |
-| 66   | 2017080112 | KANYARUGANO TANGUY-NOLAIN          | 1 | 1     | 1 | 1 |      |      |      |      |      |
+| 66   | 2017080112 | KANYARUGANO TANGUY-NOLAIN          | 1 | 1     | 1 | 1 | 1 |      |      |      |      |
 | 67   | 2017080120 | BENTIL RICHARD                     |      |      |      |      |      |      |      |      |      |
 | 68   | 2017080123 | SAM-JOLLY AKINTAYO EZEKIEL         | 1 |      |      |      |      |      |      |      |      |
-| 69   | 2017080127 | ABUBEKER YASMIN MUSTEFA            | 1    | 1 | 1 | 1 |      |      |      |      |      |
+| 69   | 2017080127 | ABUBEKER YASMIN MUSTEFA            | 1    | 1 | 1 | 1 | 1 |      |      |      |      |
 | 70   | 2017080129 | MOHAMMED AHMED KASIM               |      |      |      |      |      |      |      |      |      |
 | 71   | 2017080133 | BEN ABDALLAH DAOUD                 | 1 |  1    |      | 1 | 1 |      |      |      |      |
 | 72   | 2017080146 | NDUWINDAVYI ALINE JOELLE           |      |      | 1 | 1 |      |      |      |      |      |
