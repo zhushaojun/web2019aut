@@ -56,7 +56,7 @@
 | 52   | 2017070162 | UWIMANA THERESE                    | 1 | 1     |      | 1 |      | 1 |      |      |      |
 | 53   | 2017070167 | MALAMBO LUSHOMO                    | 1 |      | 1 | 1 |      | 1 |      |      |      |
 | 54   | 2017070210 | ABEBE HERMELA ASMELASH             | 1 |      |      | 1 |      | 1 |      |      |      |
-| 55   | 2017070223 | ASHENGO BETHLIEM ASFAW             | 1 |      |      | 1 |      |  |      |      |      |
+| 55   | 2017070223 | ASHENGO BETHLIEM ASFAW             | 1 |      |      | 1 |      | 1 |      |      |      |
 | 56   | 2017070239 | SHIMWA ELVIS                       |      |      |      |      |      |      |      |      |      |
 | 57   | 2017070241 | NYONGWA RENIAS TALENT              |      |      | 1 |      |      | 1 |      |      |      |
 | 58   | 2017080002 | EJARA RUHAMA HAILU                 | 1    | 1     | 1 | 1 | 1 | 1 |      |      |      |
