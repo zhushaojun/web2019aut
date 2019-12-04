@@ -62,7 +62,7 @@
 | 58   | 2017080002 | EJARA RUHAMA HAILU                 | 1    | 1     | 1 | 1 | 1 | 1 |      |      |      |
 | 59   | 2017080021 | NEGERI HAWI DEMELASH               |      |      | 1 | 1 | 1 | 1 |      |      |      |
 | 60   | 2017080074 | OLEMBE ELVIS DESTIN                |      |      |      |      |      |      |      |      |      |
-| 61   | 2017080075 | GEBREAMANUEAL AMEN MEKRESELASSE    |      |      |      |      |      |      |      |      |      |
+| 61   | 2017080075 | GEBREAMANUEAL AMEN MEKRESELASSE    |      |      |      |      |      | 1 |      |      |      |
 | 62   | 2017080080 | MAKOPO EVERT                       | 1 |      |      |      |      |      |      |      |      |
 | 63   | 2017080089 | ASELE MITIK BANCHA                 | 1 |      | 1 | 1 |      | 1 |      |      |      |
 | 64   | 2017080108 | HUNDE MELAT DECHASA                | 1 |      | 1 | 1 | 1 | 1 |      |      |      |
