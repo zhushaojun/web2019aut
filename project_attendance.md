@@ -75,7 +75,7 @@
 | 71   | 2017080133 | BEN ABDALLAH DAOUD                 | 1 |  1    |      | 1 | 1 | 1 |      |      |      |
 | 72   | 2017080146 | NDUWINDAVYI ALINE JOELLE           |      |      | 1 | 1 |      | 1 |      |      |      |
 | 73   | 2017080149 | MELESE ASHENAFI TESFAYE            |      |      |      | 1 |      | 1 |      |      |      |
-| 74   | 2017080158 | BEKELE MELIKT ZENEBE               | 1 |      |      | 1 |      |      |      |      |      |
+| 74   | 2017080158 | BEKELE MELIKT ZENEBE               | 1 |      |      | 1 |      | 1 |      |      |      |
 | 75   | 2017080181 | MUSARIRI JOYCE                     | 1 |      |      | 1 |      | 1 |      |      |      |
 | 76   | 2017080196 | BAKIZOV TLEUKABYL                  | 1    | 1 |      | 1 |      | 1 |      |      |      |
 | 77   | 2017080198 | KANYUNYUMALA CLIFFORD TAPIWA       |      |      |      |      |      |      |      |      |      |
