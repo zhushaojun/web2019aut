@@ -31,7 +31,7 @@
 | 27   | 2017040056 | CHIHWEHWETE AMAZIAH                | 1 |      | 1 | 1 | 1 | 1 |      |      |      |
 | 28   | 2017050010 | NIYONGABO JUVENAL                  | 1    |      |      | 1 |      |      |      |      |      |
 | 29   | 2017050039 | NIYIBIZI ELYSEE                    |      |      |      |      |      |      |      |      |      |
-| 30   | 2017050041 | KAPFUDZARUVA SALIMA CHIEDZA        |      |      |      |      |      |      |      |      |      |
+| 30   | 2017050041 | KAPFUDZARUVA SALIMA CHIEDZA        |      |      |      |      |      | 1 |      |      |      |
 | 31   | 2017050043 | TENDAYI ELISHAMA                   | 1 |      | 1 | 1 | 1 | 1 |      |      |      |
 | 32   | 2017050044 | INKOOM KWEKU MENSAH                | 1 |      | 1 | 1 | 1 | 1 |      |      |      |
 | 33   | 2017060003 | NGANGA SAILAS                      |      |      |      |      | 1 | 1 |      |      |      |

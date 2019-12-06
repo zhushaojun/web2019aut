@@ -6,6 +6,13 @@ All discussions will be in Issues or face to face with me, so no wechat contacts
 
 # Announcements
 
+## 2019.12.06
+
+We will have exams for our courses:
+
+1.  Web Application: HTML, CSS, Javascript, BootStrap
+2.  J2EE Programming: NodeJS, Express, git
+
 ## 2019.12.04
 
 From this week, no need to report progress on project. Just finish the whole project and give a presentation in class. At the final submit, you need
