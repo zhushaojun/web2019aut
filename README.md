@@ -6,6 +6,10 @@ All discussions will be in Issues or face to face with me, so no wechat contacts
 
 # Announcements
 
+## Exam
+Web Application, 2019.12.30, Monday, 14:00-16:00, 30-222
+J2EE, 2020.1.3, Friday, 14:00-16:00, 30-222
+
 ## 2019.12.06
 
 We will have exams for our courses:
