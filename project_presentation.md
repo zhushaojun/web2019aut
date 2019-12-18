@@ -16,7 +16,7 @@
 | 12   | 2017002103 | SHAWON MD JAHUNGIR HOSSAIN         |  |  |
 | 13   | 2017002104 | KADER MOHAMMAD ABDUL               |      |      |
 | 14   | 2017002105 | ALAM MD JAHANGIR                   |      |      |
-| 15   | 2017002106 | NELOY MAHADI SAJJAD                |      |      |
+| 15   | 2017002106 | NELOY MAHADI SAJJAD                | 9 | 5 |
 | 16   | 2017002107 | ANIK MEHEDI HASAN                  |      |      |
 | 17   | 2017002110 | NGOMO NCHAMA SONIA GAUDENCIA BILE  |      |      |
 | 18   | 2017002111 | AL-SUBARI GEBRAN GAMAL MOUTHNA ALI |  |  |
@@ -32,11 +32,11 @@
 | 28   | 2017050010 | NIYONGABO JUVENAL                  |      |      |
 | 29   | 2017050039 | NIYIBIZI ELYSEE                    |      |      |
 | 30   | 2017050041 | KAPFUDZARUVA SALIMA CHIEDZA        |      |      |
-| 31   | 2017050043 | TENDAYI ELISHAMA                   |      |      |
+| 31   | 2017050043 | TENDAYI ELISHAMA                   | 7 | 5 |
 | 32   | 2017050044 | INKOOM KWEKU MENSAH                |      |      |
 | 33   | 2017060003 | NGANGA SAILAS                      |      |      |
 | 34   | 2017060025 | TARUVINGIRA MUSSAH                 |      |      |
-| 35   | 2017060056 | MABHIZA CHIRAWU ALEC               |  |  |
+| 35   | 2017060056 | MABHIZA CHIRAWU ALEC               | 8 | 5 |
 | 36   | 2017060069 | KABWEMBA EDWARD                    |      |      |
 | 37   | 2017070007 | CHITEMBURE RUTENDO                 |      |      |
 | 38   | 2017070030 | MUTONI TONY STEIN                  |      |      |
@@ -73,7 +73,7 @@
 | 69   | 2017080127 | ABUBEKER YASMIN MUSTEFA            |  |  |
 | 70   | 2017080129 | MOHAMMED AHMED KASIM               |      |      |
 | 71   | 2017080133 | BEN ABDALLAH DAOUD                 |      |      |
-| 72   | 2017080146 | NDUWINDAVYI ALINE JOELLE           |      |      |
+| 72   | 2017080146 | NDUWINDAVYI ALINE JOELLE           | 7 | 5 |
 | 73   | 2017080149 | MELESE ASHENAFI TESFAYE            |      |      |
 | 74   | 2017080158 | BEKELE MELIKT ZENEBE               |      |      |
 | 75   | 2017080181 | MUSARIRI JOYCE                     |      |      |
