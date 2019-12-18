@@ -35,7 +35,7 @@
 | 31   | 2017050043 | TENDAYI ELISHAMA                   | 7 | 5 |
 | 32   | 2017050044 | INKOOM KWEKU MENSAH                |      |      |
 | 33   | 2017060003 | NGANGA SAILAS                      | 7 | 5 |
-| 34   | 2017060025 | TARUVINGIRA MUSSAH                 |      | 5 |
+| 34   | 2017060025 | TARUVINGIRA MUSSAH                 | 6 | 5 |
 | 35   | 2017060056 | MABHIZA CHIRAWU ALEC               | 8 | 5 |
 | 36   | 2017060069 | KABWEMBA EDWARD                    |      |      |
 | 37   | 2017070007 | CHITEMBURE RUTENDO                 |      |      |
@@ -76,7 +76,7 @@
 | 72   | 2017080146 | NDUWINDAVYI ALINE JOELLE           | 7 | 5 |
 | 73   | 2017080149 | MELESE ASHENAFI TESFAYE            |      |      |
 | 74   | 2017080158 | BEKELE MELIKT ZENEBE               |      |      |
-| 75   | 2017080181 | MUSARIRI JOYCE                     |      | 5 |
+| 75   | 2017080181 | MUSARIRI JOYCE                     | 7 | 5 |
 | 76   | 2017080196 | BAKIZOV TLEUKABYL                  |  |  |
 | 77   | 2017080198 | KANYUNYUMALA CLIFFORD TAPIWA       |      |      |
 | 78   | 2017080220 | OUMAI ANAS                         |      |      |
