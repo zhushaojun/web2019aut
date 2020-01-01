@@ -21,7 +21,7 @@
 | 17   | 2017002110 | NGOMO NCHAMA SONIA GAUDENCIA BILE  | 7 | 5 |
 | 18   | 2017002111 | AL-SUBARI GEBRAN GAMAL MOUTHNA ALI | 8 | 4 |
 | 19   | 2017002112 | SHEJA MARIE FRANCE CREDIA          | 0 | 3 |
-| 20   | 2017002113 | UGWU KINGSLEY CHISOM               | 9 | 10 |
+| 20   | 2017002113 | UGWU KINGSLEY CHISOM               | 0 | 0 |
 | 21   | 2017002114 | RAHMAN MD MOSTAFIZUR               | 10 | 8 |
 | 22   | 2017002115 | MEHEDI MD ASIF                     | 7 | 5 |
 | 23   | 2017002116 | MANZA NAMWEMA                      |  |  |

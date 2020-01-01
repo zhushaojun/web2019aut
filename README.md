@@ -6,7 +6,12 @@ All discussions will be in Issues or face to face with me, so no wechat contacts
 
 # Announcements
 
+## 2020.1.1
+
+The project of 2017002113 is copied from https://github.com/WebDevSimplified/Mybrary, so his project score will be set to 0.
+
 ## Exam
+
 Web Application, 2019.12.30, Monday, 14:00-16:00, 30-222
 
 J2EE, 2020.1.3, Friday, 14:00-16:00, 30-222
